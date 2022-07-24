@@ -3,9 +3,13 @@
 [22,27,16,2,18,6] -> Insertion Sort
 
 SORU 1 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+
  [2,27,16,22,18,6]  n-1
+ 
  [2,6,16,22,19,27]  n-2
+ 
  [2,6,16,22,19,27]  n-3
+ 
  [2,6,16,19,22,27]  n-4
  
  SORU 2 Big-O gösterimini yazınız.
